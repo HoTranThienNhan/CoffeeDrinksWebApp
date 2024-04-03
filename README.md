@@ -1,4 +1,4 @@
-# Project học phần Công nghệ Web (CT275)
+# Project học phần Công nghệ Web (CT275 - PHP)
 
 Học kỳ 2, Năm học 2022-2023
 
